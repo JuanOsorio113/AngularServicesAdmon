@@ -1,0 +1,19 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.mat-sidenav-content {
+  height: 100%;
+}
+
+.mat-grid-list {
+  height: 100%;
+}
+
+.mat-grid-tile {
+  height: 100%;
+}
+
+.example-card {
+  max-width: 400px;
+}
